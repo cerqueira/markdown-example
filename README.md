@@ -11,10 +11,12 @@ Test Repo
 ```
 
 ### Table Test
-| **_Nome_** | **_UF_** |   |   |   |
-|:----------:|:--------:|:-:|:-:|:-:|
-|  **_Bla_** | **_RJ_** |   |   |   |
-|  **_Be_**  | **_ES_** |   |   |   |
-|  **_Uhh_** | **_SP_** |   |   |   |
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 
 > Citation Test
